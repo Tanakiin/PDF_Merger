@@ -1,5 +1,4 @@
-# PDF Merger (Drag & Drop Edition)
-
+# PDF Merger
 A simple desktop app built with Tkinter that lets you merge multiple PDF files into one.  
 Includes drag-and-drop reordering so you can control the exact merge order before exporting.
 
